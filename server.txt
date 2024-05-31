@@ -1,1 +1,8 @@
-print("Hello World")
+interface Food {
+  name: string;
+  cost: number;
+  image: string;
+  desc: string;
+  has3D: boolean;
+  foodId: number;
+}
