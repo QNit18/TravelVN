@@ -2,12 +2,3 @@
 print("Hello World")
 print("User2")
 
-interface Food {
-  name: string;
-  cost: number;
-  image: string;
-  desc: string;
-  has3D: boolean;
-  foodId: number;
-}
-
